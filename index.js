@@ -27,3 +27,5 @@ const start = () => {
 };
 
 start();
+
+console.log("Bot is running...");
